@@ -1,0 +1,10 @@
+C:\Users\Kevin\Code\1718-csse-code\week04\priemgetal\bin\Debug\netcoreapp2.0\priemgetal.deps.json
+C:\Users\Kevin\Code\1718-csse-code\week04\priemgetal\bin\Debug\netcoreapp2.0\priemgetal.runtimeconfig.json
+C:\Users\Kevin\Code\1718-csse-code\week04\priemgetal\bin\Debug\netcoreapp2.0\priemgetal.runtimeconfig.dev.json
+C:\Users\Kevin\Code\1718-csse-code\week04\priemgetal\bin\Debug\netcoreapp2.0\priemgetal.dll
+C:\Users\Kevin\Code\1718-csse-code\week04\priemgetal\bin\Debug\netcoreapp2.0\priemgetal.pdb
+C:\Users\Kevin\Code\1718-csse-code\week04\priemgetal\obj\Debug\netcoreapp2.0\priemgetal.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Code\1718-csse-code\week04\priemgetal\obj\Debug\netcoreapp2.0\priemgetal.AssemblyInfoInputs.cache
+C:\Users\Kevin\Code\1718-csse-code\week04\priemgetal\obj\Debug\netcoreapp2.0\priemgetal.AssemblyInfo.cs
+C:\Users\Kevin\Code\1718-csse-code\week04\priemgetal\obj\Debug\netcoreapp2.0\priemgetal.dll
+C:\Users\Kevin\Code\1718-csse-code\week04\priemgetal\obj\Debug\netcoreapp2.0\priemgetal.pdb
